@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
   s.preserve_paths =  'Tude.xcframework/*', 'PrebidMobile.xcframework/*'
     
   s.dependency 'Google-Mobile-Ads-SDK', '10.12.0'
+  s.dependency 'AmazonPublisherServicesSDK', '4.7.6'
     
   s.user_target_xcconfig = {
     'OTHER_LDFLAGS' => '-ObjC',
