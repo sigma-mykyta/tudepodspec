@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Tude'
-  s.version          = '1.0.0'
+  s.version          = '1.1.0'
   s.summary          = 'Tude SDK'
   s.homepage         = 'https://www.aditude.com'
   s.license          = { :type => 'Custom', :file => 'LICENSE' }
